@@ -4,4 +4,4 @@
 * lime
 * salt
 ## Instructions
-* put on avocado into a bowl.
+* pell the avocados
